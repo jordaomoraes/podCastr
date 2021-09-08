@@ -1,4 +1,4 @@
 # podCastr
 Web Site Desenvolvido para Estudos de React.js
 
-Teste no linuxccccccccccccccccccccccccccccc
+Teste no linux
